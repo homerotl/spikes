@@ -7,6 +7,9 @@
     <groupId>spikes</groupId>
     <artifactId>spikes</artifactId>
     <version>1.0-SNAPSHOT</version>
-
-
+    <packaging>war</packaging>
+    <name>Homer Spikes Webapp</name>
+    <build>
+        <finalName>HomerSpikesWebapp</finalName>
+    </build>
 </project>
